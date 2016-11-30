@@ -1,0 +1,12 @@
+c:\users\administrator\documents\Microsoft Press\VCSBS\Chapter 1\Lab2\Completed\Lab2\bin\Debug\Lab2.exe.config
+c:\users\administrator\documents\Microsoft Press\VCSBS\Chapter 1\Lab2\Completed\Lab2\bin\Debug\Lab2.exe
+c:\users\administrator\documents\Microsoft Press\VCSBS\Chapter 1\Lab2\Completed\Lab2\bin\Debug\Lab2.pdb
+c:\users\administrator\documents\Microsoft Press\VCSBS\Chapter 1\Lab2\Completed\Lab2\obj\Debug\Lab2.exe
+c:\users\administrator\documents\Microsoft Press\VCSBS\Chapter 1\Lab2\Completed\Lab2\obj\Debug\Lab2.pdb
+c:\users\administrator\documents\Microsoft Press\VCSBS\Chapter 1\Lab2\Completed\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\VS Stuff\Completed\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Administrator\Desktop\VS Stuff\Completed\Lab2\obj\Debug\Lab2.exe
+C:\Users\Administrator\Desktop\VS Stuff\Completed\Lab2\obj\Debug\Lab2.pdb
+C:\Users\Administrator\Desktop\VS Stuff\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Administrator\Desktop\VS Stuff\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\Administrator\Desktop\VS Stuff\Lab2\Lab2\obj\Debug\Lab2.pdb

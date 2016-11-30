@@ -1,0 +1,57 @@
+﻿@model Lab21.Models.RegistrationForm
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<style> 
+.mytextstyle{font-size:25px; color:antiquewhite; font-family:Constantia;}
+</style>
+<html>
+
+
+<head>
+    
+    <meta name="viewport" content="width=device-width" />
+    <title>RideTheWave</title>
+</head>
+<body style="background-size:cover" background="~/Contents/OceanWave.gif">
+<!--<img src="~/Contents/OceanWave.gif" style="width:auto;height:auto;">-->
+
+    
+    <h1 style="color:white">
+        Ocean of Dreams sign-up form
+    </h1>
+
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary()
+        <p class="mytextstyle">Your name: @Html.TextBoxFor(x => x.Name)</p>
+            <p class="mytextstyle">Your age: @Html.TextBoxFor(x => x.Age)</p>
+            <p class="mytextstyle">Your email: @Html.TextBoxFor(x => x.Email)</p>
+            <p class="mytextstyle">Your phone: @Html.TextBoxFor(x => x.Phone)</p>
+            <p class="mytextstyle">Your emergency contact name: @Html.TextBoxFor(x => x.EmergencyContactName)</p>
+            <p class="mytextstyle">Your emergency contact'sphone: @Html.TextBoxFor(x => x.EmergencyNumber)</p>
+
+            <p class="mytextstyle">
+                Will you attend?
+                @Html.DropDownListFor(x => x.JoinTheSharks, new[]
+           {
+               new SelectListItem()
+               {
+                   Text = "Yes, I'll swim",
+                   Value = bool.TrueString},
+
+               
+               new SelectListItem()
+               {
+                   Text = "I'm interested, but I'm not ready just yet.",
+                   Value = bool.FalseString}
+           }, "Choose an option")
+
+            </p>
+            <input type="submit" value="Begin Adventure" />
+    }
+
+</body>
+</html>

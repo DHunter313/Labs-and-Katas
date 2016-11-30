@@ -1,0 +1,13 @@
+c:\users\administrator\documents\Microsoft Press\VCSBS\Chapter 1\Lab\Completed lab\Completed lab\bin\Debug\Completed lab.exe.config
+c:\users\administrator\documents\Microsoft Press\VCSBS\Chapter 1\Lab\Completed lab\Completed lab\bin\Debug\Completed lab.exe
+c:\users\administrator\documents\Microsoft Press\VCSBS\Chapter 1\Lab\Completed lab\Completed lab\bin\Debug\Completed lab.pdb
+c:\users\administrator\documents\Microsoft Press\VCSBS\Chapter 1\Lab\Completed lab\Completed lab\obj\Debug\Completed lab.exe
+c:\users\administrator\documents\Microsoft Press\VCSBS\Chapter 1\Lab\Completed lab\Completed lab\obj\Debug\Completed lab.pdb
+c:\users\administrator\documents\Microsoft Press\VCSBS\Chapter 1\Lab\Completed lab\Completed lab\obj\Debug\Completed lab.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\VS Stuff\Lab1\Completed lab\bin\Debug\Completed lab.exe.config
+C:\Users\Administrator\Desktop\VS Stuff\Lab1\Completed lab\obj\Debug\Completed lab.exe
+C:\Users\Administrator\Desktop\VS Stuff\Lab1\Completed lab\obj\Debug\Completed lab.pdb
+C:\Users\Administrator\Desktop\VS Stuff\Lab1\Completed lab\bin\Debug\Completed lab.exe
+C:\Users\Administrator\Desktop\VS Stuff\Lab1\Completed lab\bin\Debug\Completed lab.pdb
+C:\Users\Administrator\Desktop\VS Stuff\Lab1\Completed lab\obj\Debug\Completed lab.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Labs\Lab1\Completed lab\obj\Debug\Completed lab.pdb

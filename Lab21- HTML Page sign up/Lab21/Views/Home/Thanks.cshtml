@@ -1,0 +1,24 @@
+﻿@model Lab21.Models.RegistrationForm
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Thanks</title>
+</head>
+<body>
+    <div>
+        <h1>Thank You, @Model.Name!</h1>
+        @if (Model.JoinTheSharks == true){
+            @:It's great that you decided to join us. Starting from today your life changes for the better.
+            }else{ 
+            @:I'm sorry to hear that you're afraid to enjoy your life. Please register with us when you want to achieve you're dreams.
+            }
+</div>
+</body>
+</html>
