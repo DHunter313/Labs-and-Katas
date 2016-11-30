@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\VS Stuff\QuizReverseAString\reverse string from class as whole\bin\Debug\reverse string from class as whole.exe.config
+C:\Users\Administrator\Desktop\VS Stuff\QuizReverseAString\reverse string from class as whole\bin\Debug\reverse string from class as whole.exe
+C:\Users\Administrator\Desktop\VS Stuff\QuizReverseAString\reverse string from class as whole\bin\Debug\reverse string from class as whole.pdb
+C:\Users\Administrator\Desktop\VS Stuff\QuizReverseAString\reverse string from class as whole\obj\Debug\reverse string from class as whole.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\VS Stuff\QuizReverseAString\reverse string from class as whole\obj\Debug\reverse string from class as whole.exe
+C:\Users\Administrator\Desktop\VS Stuff\QuizReverseAString\reverse string from class as whole\obj\Debug\reverse string from class as whole.pdb

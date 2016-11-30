@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\VS Stuff\Lab10\MovieAppList\MovieAppList\bin\Debug\MovieAppList.exe.config
+C:\Users\Administrator\Desktop\VS Stuff\Lab10\MovieAppList\MovieAppList\obj\Debug\MovieAppList.exe
+C:\Users\Administrator\Desktop\VS Stuff\Lab10\MovieAppList\MovieAppList\obj\Debug\MovieAppList.pdb
+C:\Users\Administrator\Documents\Labs\Lab10\MovieAppList\MovieAppList\obj\Debug\MovieAppList.pdb
+C:\Users\Administrator\Documents\Labs\Lab10\MovieAppList\MovieAppList\bin\Debug\MovieAppList.exe
+C:\Users\Administrator\Documents\Labs\Lab10\MovieAppList\MovieAppList\bin\Debug\MovieAppList.pdb
+C:\Users\Administrator\Documents\Labs\Lab10\MovieAppList\MovieAppList\obj\Debug\Lab10MovieApp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Labs\Lab10\MovieAppList\MovieAppList\obj\Debug\MovieAppList.exe

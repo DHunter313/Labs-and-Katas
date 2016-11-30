@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\VS Stuff\Lab8\Lab8_batting\Lab8_BattingTest\bin\Debug\Lab8_BattingTest.dll
+C:\Users\Administrator\Desktop\VS Stuff\Lab8\Lab8_batting\Lab8_BattingTest\bin\Debug\Lab8_BattingTest.pdb
+C:\Users\Administrator\Desktop\VS Stuff\Lab8\Lab8_batting\Lab8_BattingTest\bin\Debug\Lab8_batting.exe
+C:\Users\Administrator\Desktop\VS Stuff\Lab8\Lab8_batting\Lab8_BattingTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Administrator\Desktop\VS Stuff\Lab8\Lab8_batting\Lab8_BattingTest\bin\Debug\Lab8_batting.pdb
+C:\Users\Administrator\Desktop\VS Stuff\Lab8\Lab8_batting\Lab8_BattingTest\obj\Debug\Lab8_BattingTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\VS Stuff\Lab8\Lab8_batting\Lab8_BattingTest\obj\Debug\Lab8_BattingTest.dll
+C:\Users\Administrator\Desktop\VS Stuff\Lab8\Lab8_batting\Lab8_BattingTest\obj\Debug\Lab8_BattingTest.pdb
