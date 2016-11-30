@@ -1,6 +1,0 @@
-C:\Users\Administrator\Desktop\VS Stuff\QuizReverseAString\QuizReverseAString\bin\Debug\QuizReverseAString.exe.config
-C:\Users\Administrator\Desktop\VS Stuff\QuizReverseAString\QuizReverseAString\bin\Debug\QuizReverseAString.exe
-C:\Users\Administrator\Desktop\VS Stuff\QuizReverseAString\QuizReverseAString\bin\Debug\QuizReverseAString.pdb
-C:\Users\Administrator\Desktop\VS Stuff\QuizReverseAString\QuizReverseAString\obj\Debug\QuizReverseAString.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\Desktop\VS Stuff\QuizReverseAString\QuizReverseAString\obj\Debug\QuizReverseAString.exe
-C:\Users\Administrator\Desktop\VS Stuff\QuizReverseAString\QuizReverseAString\obj\Debug\QuizReverseAString.pdb

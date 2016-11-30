@@ -1,8 +1,0 @@
-C:\Users\Administrator\Desktop\VS Stuff\Lab7\Lab7\Lab7\bin\Debug\Lab7.exe.config
-C:\Users\Administrator\Desktop\VS Stuff\Lab7\Lab7\Lab7\bin\Debug\Lab7.exe
-C:\Users\Administrator\Desktop\VS Stuff\Lab7\Lab7\Lab7\bin\Debug\Lab7.pdb
-C:\Users\Administrator\Desktop\VS Stuff\Lab7\Lab7\Lab7\bin\Debug\GC_ClassroomLibrary.dll
-C:\Users\Administrator\Desktop\VS Stuff\Lab7\Lab7\Lab7\bin\Debug\GC_ClassroomLibrary.pdb
-C:\Users\Administrator\Desktop\VS Stuff\Lab7\Lab7\Lab7\obj\Debug\Lab7.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\Desktop\VS Stuff\Lab7\Lab7\Lab7\obj\Debug\Lab7.exe
-C:\Users\Administrator\Desktop\VS Stuff\Lab7\Lab7\Lab7\obj\Debug\Lab7.pdb

@@ -1,6 +1,0 @@
-C:\Users\Administrator\Desktop\VS Stuff\Lab8\Lab8_batting\Lab8_batting\bin\Debug\Lab8_batting.exe.config
-C:\Users\Administrator\Desktop\VS Stuff\Lab8\Lab8_batting\Lab8_batting\bin\Debug\Lab8_batting.exe
-C:\Users\Administrator\Desktop\VS Stuff\Lab8\Lab8_batting\Lab8_batting\bin\Debug\Lab8_batting.pdb
-C:\Users\Administrator\Desktop\VS Stuff\Lab8\Lab8_batting\Lab8_batting\obj\Debug\Lab8_batting.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\Desktop\VS Stuff\Lab8\Lab8_batting\Lab8_batting\obj\Debug\Lab8_batting.exe
-C:\Users\Administrator\Desktop\VS Stuff\Lab8\Lab8_batting\Lab8_batting\obj\Debug\Lab8_batting.pdb
